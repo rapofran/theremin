@@ -2,7 +2,7 @@
   'use strict';
   var filename, slice;
 
-  filename = '/js/index.js';
+  filename = 'js/index.js';
 
   slice = [].slice;
 
